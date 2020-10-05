@@ -1,0 +1,26 @@
+{
+
+    "room.scottage_inside()": {
+        "area_name": "inside of starting cottage",
+
+        "dialogue": {
+            "area": "You are inside of a SMALL COTTAGE.**Inside of the COTTAGE, there is: A SWORD, A LANTERN, A MAP, and A COMPASS. To your EAST, there is a SMALL KITCHEN, and to your SOUTH, there is an EXIT.*"
+        }
+    },
+
+    "room.scottage_kitchen()": {
+        "area_name": "inside of kitchen",
+
+        "dialogue": {
+            "area": "It is just a NORMAL kitchen.**There is a FLASK containing SOME SORT OF LIQUID, and a FRIDGE. There is an EXIT to the WEST.*"
+        }
+    },
+
+    "room.scottage_outside()": {
+        "area_name": "outside of starting cottage",
+
+        "dialogue": {
+            "area": "You are now outside of the SMALL COTTAGE.**To The SOUTH, There is a Forest Path leading to a DISTANT TOWN, and to the EAST there is a brick road that leads to a DISTANT CITY. The DISTANT CITY looks closer than the DISTANT TOWN. The SMALL COTTAGE is to the NORTH of here.*"
+        }
+    }
+}

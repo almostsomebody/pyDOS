@@ -1,0 +1,13 @@
+{
+    "saveData": {
+        "fileName": "py.dos",
+        "filePath": "saveData"   
+    },
+
+    "defaultValues": {
+        "startingRoom": "room.scottage_inside()",
+        "windowGeometry": "600x400",
+        "windowTitle": "PyDOS 1.0.0",
+        "gameName": "PyDOS"
+    }
+}
