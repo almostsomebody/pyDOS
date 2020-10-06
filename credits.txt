@@ -1,0 +1,3 @@
+actor.py, commands.py, game.py, help.py, interface.py, item.py, obj.py, options.py, room.py and tokenizer.py by Andrew Ortego (MIT License).
+
+TKinter, JSON system, save system, modifications, as well as documentation by almost_somebody (MIT License)
